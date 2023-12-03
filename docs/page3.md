@@ -22,5 +22,9 @@ This is a large image that can be resized on click
 
 ![large image]{ width="600" }
 
+## Testing image display 2
+
+![another image]: assets/large_image.jpg
+
 
 [large image]: assets/large_image.jpg
